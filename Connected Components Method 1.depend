@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527944344 source:c:\users\alex\desktop\connected components method 1\functions1.c
+	"functions1.h"
+
+1527944327 c:\users\alex\desktop\connected components method 1\functions1.h
+	<stdio.h>
+	<stdlib.h>
+
+1527945407 source:c:\users\alex\desktop\connected components method 1\main1.c
+	"functions1.h"
+
